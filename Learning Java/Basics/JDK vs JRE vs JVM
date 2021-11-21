@@ -14,3 +14,5 @@ A specification where the working of Java Virtual Machine is specified.
 An implementation is a computer program that meets the requirements of the JVM specification.
 Runtime Instance Whenever you write a java command on the command prompt to run the java class, 
  an instance of JVM is created.
+
+ https://www.geeksforgeeks.org/differences-jdk-jre-jvm/?ref=lbp
